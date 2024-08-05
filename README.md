@@ -1,4 +1,4 @@
-# Hello. Seja Bem-Vindo(a) ao Meu Perfil 👋
+# Hello. Welcome to My Profile 👋
 <a href="https://github.com/YuriLima1/YuriLima1/assets/167240882/21eba8e5-7a1d-4709-bb09-43d7fc50cb84">
   <img height=350 align="center" src="https://github.com/YuriLima1/YuriLima1/assets/167240882/21eba8e5-7a1d-4709-bb09-43d7fc50cb84" />
 </a>
